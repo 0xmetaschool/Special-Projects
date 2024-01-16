@@ -36,7 +36,7 @@ Before we begin! Let’s first introduce you to the team so that you know we are
 
 -   Fatima - She is the BD & Marketing Lead. She'll be spreading the word about our token far and wide! Without her skills, this thing ain't going nowhere.
 
--   Aswin - He is Tech & Project Lead who will helping the team with codes and making sure everyone is doing their part of the job, yes he get stuck with coding too but somehow gets lucky everytime.
+-   Aswin - He is Tech & Project Lead who will helping the team with codes and making sure everyone is doing their part of the job, yes he gets stuck with coding too but somehow gets lucky everytime.
 - Munim - She will be working on the frontend, making sure you all learn how to create a fun page for your token project. Well she is really good with designs!
 -   Fareeha - Teaming up with Munim, Fareeha has got that design fire too. These awesome duo will be cook up a dope website for our token!
 -   Akshata - She will be working on smart contract of the token and she is the best person if you want learn smart contract auditing. Stay tuned for thattttt!
