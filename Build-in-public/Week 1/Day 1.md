@@ -1,58 +1,48 @@
+# Day 1 
 
- # Day 1
+Hello frens! We are a small team at Metaschool and we are super excited to start this new series called Build In Public, where we will code, build, and launch a token from scratch, in public, with you all. Before we move further, please make sure to check us out on [LinkedIn](https://www.linkedin.com/company/0xmetaschool/) and [Twitter](https://twitter.com/0xmetaschool).
 
-## Introduction
+Now you might be thinking, "Ugh, not another boring token." But hold up! This is gonna be a total blast, trust us. Okay, maybe not as epic as when Ross and Rachel were on a "break" lmao, but it'll come close!
 
-Hello devs, builders, lovers, and haters! We are Metaschool and we are super excited to start this new series BuildInPublic with you all!
+Okay, picture this: a token inspired by the legendary TV series FRIENDS named as FRIENDS. Sounds fun, right? 😂 
 
-Quick Primer: We will be launching a token inspired by the popular tv series Friends. Our token will be called Friends as well. Seriously! lol. By launching this token we want to learn:
+![4d63b5b19232979da7788772a6d78480.gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/4d63b5b19232979da7788772a6d78480.gif)
 
-1. How to really launch a token on mainnet and not get busted!
-2. How to get listed on dex and cex
-3. How does a token project build a community?
-4. Which blockchain today in 2024 is the best ecosystem to launch a token?
-5. Which blockchain really supports indie devs and is not just creating hype about their crazy ecosystem funds of 50M or 100M or whatever?
-6. How do Market Makers work?
-7. How to price a token and sustain it?
-8. How to build trust and not do a rug pull game with the community. lol
-9. Which platform is willing to do a launchpad of a meme token like this? Highly unlikely someone will do it, but we will try for sure!
+Now, we know some of you hate token courses as much as Monica hates a messy room, lol. But this will be a journey where we will be diving into an interesting project like a token launch along with you. Not only that, we will also be getting the token listed on various exchanges (or at least, we will try our best 🥹)
 
-See a token launch is not just about the code but there are several factors involved in it, so are you with us in this? If yes let me walk you through what we are going to do for the next 30 days!
+ 
 
-## The Project
+By ~~creating~~ launching this token, there's so much we expect you to learn! Like, how we can actually launch on mainnet without getting busted, how to get a token listed on big exchanges, and, oh, how we can build a token community as awesome as that of the FRIENDS squad. 
 
-We're creating a Friends token, inspired by the one and only Friends sitcom that we're total diehard fans of! If you love Friends too, you're gonna dig this.
+But there is a catch. We won’t be doing it all alone because YOU will accompany us over the course of the next 30 days. We will invest 1000 dollars in total on this project. Real $$ and not some fake faucet tokens like some courses on the internet, lol.
 
-But the catch is we want to do all of this with YOU in the next 30 days and we will invest 1000 dollars in total on this project! yayy!! lol. 
+The good news is that we have made some progress already. We have designed a FRIENDS token and can't wait to show it to you:
 
-## The Team
+![4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize (1).gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize_(1).gif)
 
-Before we begin! Let’s first introduce you to the team so that you know we are real people not the 2017’s ICO scammers. lol. Look we promise we're not shady guys in hoodies working out of a basement somewhere.
+And we’d love to get your thoughts and feedback on the design. So, why don’t you guys jump on our [Discord channel](https://discord.gg/vDjFB46j)?
 
-- Fatima - She is the BD & Marketing Lead. She'll be spreading the word about our token far and wide! Without her skills, this thing ain't going nowhere.
+But before you do that, let us first introduce you to the team so that you know we are real people, not the [2017’s ICO scammers](https://chainsec.io/wp-content/uploads/2019/02/ernl83ab7sh01.jpg) 😛 And we mean it: 
 
-- Aswin - He is the Tech & Project Lead who will be helping the team with codes and making sure everyone is doing their part of the job, yes he gets stuck with coding too but somehow gets lucky every time.
-- Munim - She will be working on the frontend, making sure you all learn how to create a fun page for your token project. Well, she is really good with designs!
-- Fareeha - Teaming up with Munim, Fareeha has got that design fire too. This awesome duo will be cooking up a dope website for our token!
-- Akshata - She will be working on the smart contract of the token and she is the best person if you want to learn smart contract auditing. Stay tuned for thattttt!
-- Aveek - He will be working with Akshata on the smart contract part. His multifaceted coding skills will no doubt come in handy!
+Fatima — She's our Business Development and Marketing Lead (frens ignore the technical terms), in short, she will help us get listed on big exchanges 🤞🏻 Also she's the Monica of our group - super organised and great to work with!
 
-## Ground Rules
+Aswin — He's our Technical and Project Lead, handling all the coding and development work. He is the Chandler of our group, and he can definitely keep a smile even after messing things up, lol.
 
-Just a few rules as we kickstart this journey:
+Munim & Fareeha — This duo is like Phoebe and her guitar, very creative and talented and they will be creating a fun website for our token and might sing “Smelly Cat” for you who knowsss 😂
 
-1. We will only invest 1000 dollars on token projects. 
-2. We will write and disclose all the internal and external communication with you without disclosing the names of external stakeholders. 
-3. This is a fun project just for the sake of learning and fun yo! don’t take finances seriously, focus on learning.
-4. We will try to write one update daily. 
+Akshata & Aveek - Now finally this duo is our Joey and Chandler, the classic. They perfectly complement each other and will be sharing the token code with you but not *food.*
 
-## Roadmap
+So we tried our best to walk you through everything we will be doing for the next 30 days, like I already said it's not as fun as when Ross and Rachel were on "break" 😂 but its close right? 
 
-Here's a high-level view of what each team member will be working on:
+Why don't you join our [Discord](https://discord.gg/vDjFB46j) and follow along on the journey as we build this together? But before you head over...
 
-| Name | Responsibility |
-|-|-|  
-| Fatima | - Reach out to blockchains including Sui, Avalanche, Base, Polkadot, Aptos, Binance, Ethereum, and Solana and request support in terms of marketing.<br>- Reach out to market makers for providing liquidity<br>- Write the tokenomics and whitepaper<br>- Reach out to communities and influencers for marketing and shoutouts |
-| Aswin | - Creating a process for end to end project management<br>- Work on auditing the code<br>- Help Fatima with the BD<br>- Review content - Marketing + Course |
-| Fareeha & Munim | - Work on the UI of the website<br>- Code the Token Website |
-| Akshata & Aveek | - Research on different Token contracts<br>- Work on smart contract code for Friends Token<br>- Test the Smart contract on testnet before launch |
+![giphy (1).gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/giphy_(1).gif)
+
+Monica has laid down some house rules that we all gotta follow (you know how organized she is!). Here they are:
+
+1. We're only investing $1000 total in this token project. We can already hear Monica freaking out about the budget 😅
+2. We'll disclose all our internal and external communications (no names though!).
+3. This is just for learning and fun - finances are secondary here!
+4. We'll try to give daily updates.
+
+Alright, that's it! Now hit up our [Discord](https://discord.gg/vDjFB46j) and write "LFG" if you're hyped. Catch you tomorrow, FRIENDS! ✌️
