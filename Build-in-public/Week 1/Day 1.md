@@ -6,7 +6,7 @@ Now you might be thinking, "Ugh, not another boring token." But hold up! This is
 
 Okay, picture this: a token inspired by the legendary TV series FRIENDS named as FRIENDS. Sounds fun, right? 😂 
 
-![4d63b5b19232979da7788772a6d78480.gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/4d63b5b19232979da7788772a6d78480.gif)
+![4d63b5b19232979da7788772a6d78480.gif](https://github.com/0xmetaschool/Special-Projects/blob/main/Build-in-public/Week%201/Day%201%20/4d63b5b19232979da7788772a6d78480.gif?raw=true)
 
 Now, we know some of you hate token courses as much as Monica hates a messy room, lol. But this will be a journey where we will be diving into an interesting project like a token launch along with you. Not only that, we will also be getting the token listed on various exchanges (or at least, we will try our best 🥹)
 
@@ -18,7 +18,7 @@ But there is a catch. We won’t be doing it all alone because YOU will accompan
 
 The good news is that we have made some progress already. We have designed a FRIENDS token and can't wait to show it to you:
 
-![4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize (1).gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize_(1).gif)
+![4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize (1).gif](https://github.com/0xmetaschool/Special-Projects/blob/main/Build-in-public/Week%201/Day%201%20/4562939d-927e-4c20-80fb-8c60ab0a4aac-ezgif.com-optimize_(1).gif?raw=true)
 
 And we’d love to get your thoughts and feedback on the design. So, why don’t you guys jump on our [Discord channel](https://discord.gg/vDjFB46j)?
 
@@ -36,7 +36,7 @@ So we tried our best to walk you through everything we will be doing for the nex
 
 Why don't you join our [Discord](https://discord.gg/vDjFB46j) and follow along on the journey as we build this together? But before you head over...
 
-![giphy (1).gif](Day%201%20(revised)%20951bd7c636ea483d9a6677f86c3e0ff4/giphy_(1).gif)
+![giphy (1).gif](https://github.com/0xmetaschool/Special-Projects/blob/main/Build-in-public/Week%201/Day%201%20/giphy_(1).gif?raw=true)
 
 Monica has laid down some house rules that we all gotta follow (you know how organized she is!). Here they are:
 
