@@ -82,7 +82,7 @@ One of the most important aspect of smart contracts is testing the code. You can
 You can simply run this command to test to code:
 
 ```solidity
-$ npx hardhat test
+npx hardhat test
 ```
 
 You will be able to see the following commands:
