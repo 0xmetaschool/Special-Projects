@@ -2,7 +2,7 @@
 
 Welcome to the eleventh day of our build-in public series! I can’t believe we have come so far! Previously, you set up the environment variables for your HardHat project. 
 
-Today, we will write the deployment script for our `FriendsToken` contract. It might look like it needs to be fixed. We still need to figure out what the bug is. But at least we’ve done something. So let’s write it and understand how it works.
+Today, we will write the deployment script for our `FriendsToken` contract and try to deploy the token as well. It might look like the deployment script needs to be fixed. But at least we’ve done something. So let’s write it, understand how it works, and try to deploy the contract using this script.
 
 ## Writing the deployment script
 
@@ -87,8 +87,45 @@ main().catch((error) => {
 - This block calls the `main()` function and uses `.catch()` to handle any errors that might occur during the execution of the asynchronous code.
 - If an error occurs, it prints the error message to the console and sets the process exit code to 1, indicating that an error occurred during script execution.
 
-## That’s a wrap
-
 Overall, this script uses Hardhat and `ethers.js` to deploy a contract `FriendsToken` with specified parameters, including the contract's name, symbol, and initial token supply. Once deployed, it prints the address where the contract was deployed.
 
-As we said this deployment file might be buggy, we’ll see the next if it is, then fix and deploy it. Meanwhile, try using this script and deploy the token on the Sepolia network.
+## Update HardHat config file
+
+Head over to `hardhat.config.js` file and paste the following code.
+
+```
+require("@nomicfoundation/hardhat-toolbox");
+require("@nomicfoundation/hardhat-verify");
+
+/** @type import('hardhat/config').HardhatUserConfig */
+
+const dotenv = require("dotenv");
+dotenv.config();
+
+const PRIVATE_KEY = process.env.PRIVATE_KEY;
+/** @type import('hardhat/config').HardhatUserConfig */
+module.exports = {
+  solidity: "0.8.20",
+  networks: {
+    sepolia: {
+      url: "<YOUR_ALCHEMY_HTTP_URL>",
+      accounts: [PRIVATE_KEY],
+    },
+  },
+};
+
+```
+
+Do update `<YOUR_ALCHEMY_HTTP_URL>` with your Alchemy HTTP URL link here.
+
+## Run the deployment
+
+Now, run the script file using the following command.
+
+```
+npx hardhat run scripts/deploy.js --network sepolia
+```
+
+## That’s a wrap
+
+Next, we will see if the script file and the config file worked fine. We will also move with the next steps. We’ll do any fixes we need to do. Meanwhile, try using this script and deploy the token on the Sepolia network and see if it worked or not.
